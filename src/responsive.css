@@ -1,0 +1,219 @@
+@media only screen and (min-width:200px) and (max-width:767px) {
+
+    .whychoose_top h2:after, .whychoose_top h2:before  {
+        display: none;
+    }
+    .logo img {
+        width: 100%;
+    }
+    .navbar-collapse.active {
+        display: block;
+    }
+    .navbar-light {
+        position: inherit;
+    }
+    .main-header .col-md-8.col-5 {
+        position: inherit;
+    }
+    .main-header {
+        position: relative;
+        padding: 10px 0;
+    }
+    #navbarNavAltMarkup {
+        position: absolute;
+        top: 64px;
+        z-index: 99;
+        background: #0d4077;
+        left: 0;
+        right: 0;
+    }
+    .main-header ul {
+        display: flex;
+        justify-content: flex-start;
+        flex-direction: column;
+    }
+    .main-header ul li {
+        margin: 0 0 0 0;
+    }
+    .main-header ul li a {
+        color: #ffffff;
+        font-size: 14px;
+        font-weight: 500;
+        padding: 10px 21px;
+        position: relative;
+        display: block;
+    }
+    .main-header ul li a::before {
+        display: none
+    }
+    .teatimonilas_panel {
+        padding: 30px 10px 0 10px;
+    }
+    .banner-overlay {
+        position: relative;
+        background: rgb(13 64 119);
+        padding: 20px;
+    }
+    .banner-left {
+        padding: 0 0 0 0;
+    }
+    .banner-left h4 {
+        padding: 0 0px 20px 0;
+        font-size: 23px;
+    }
+    .relator {
+        padding: 0 0;
+    }
+    .relator_services_l h3 {
+        font-size: 31px;
+    }
+    .relator_services_r.text-right {
+        text-align: left !important;
+        margin-top: 25px;
+    }
+    .whychoose_top h2 {
+        font-size: 28px;
+    }
+    .whychoose_top p {
+        font-size: 18px;
+        width: 100%;
+    }
+    .whychoose_bottom_l {
+        padding: 24px 44px;
+        width: 100%;
+        margin: 0 0 0 0;
+        text-align: center;
+    }
+    .whychoose_bottom_l span {
+        font-size: 60px;
+        line-height: initial;
+    }
+    .banner-form {
+        padding: 30px 0 80px 0;
+    }
+    .whychoose_bottom_r ul li {
+        width: 100%;
+        margin: 0 0 55px 0;
+        padding: 0 0 0 94px;
+    }
+    .whychoose_bottom_r ul li img {
+        position: absolute;
+        top: -14px;
+        left: 0;
+    }
+    .whychoose {
+        min-height: auto;
+        padding: 47px 0 0 0;
+    }
+    .relator h2 {
+        padding: 0 0 22px 0;
+        font-size: 36px;
+    }
+    .relator.testimonial-section {
+        padding: 40px 0;
+    }
+    .ReactModal__Content {
+        width: 92% !important;
+    }
+    .whychoose_bottom_r {
+        padding: 52px 0 0 0;
+        width: 100%;
+    }
+    .login-form {
+        padding: 22px;
+    }
+    .steo-circle {
+        width: 60px;
+        height: 60px;
+        font-size: 19px;
+    }
+    .register-wizard ul {
+        flex-wrap: wrap;
+    }
+    .register-wizard > ul > li {
+        padding: 0 8px;
+        width: 50%;
+        margin-bottom: 17px;
+    }
+    .register-wizard ul li h5 {
+        padding: 0;
+        margin: 14px 0 0 0;
+        font-size: 13px;
+    }
+    .register-wizard ul li p {
+        padding: 5px 15px 0 11px;
+        font-size: 13px;
+    }
+    .register-wizard > ul > li::before {
+        display: none;
+    }
+    .backbutton {
+        padding: 9px 40px;
+        margin-right: 15px;
+    }
+    .signupbtn {
+        padding: 10px 40px;
+        margin-right: 15px;
+    }
+    .inner-banner.cms-p {
+        height: 150px;
+        overflow: hidden;
+    }
+    .inner-banner img {
+        width: 100%;
+        height: 100%;
+    }
+    .inn-banner-content h1 {
+        font-size: 27px;
+    }
+    .findrealtor_top_l img {
+        width: 50%;
+    }
+    .findrealtor_top_r h3 {
+        padding: 7px 0 10px 0;
+        color: #6e6e6e;
+        font-size: 25px;
+    }
+    .findrealtor_top_r h5 {
+        padding: 0 0 16px 0;
+        color: #626262;
+        font-size: 16px;
+    }
+    .exppanel ul li {
+        display: inline-block;
+        font-size: 18px;
+        width: 50%;
+    }
+    .detailsreviewcomments input.form-control {
+        width: 100%;
+    }
+    .detailsreviewcomments textarea {
+        width: 100%;
+    }
+    .relator_services_r a {
+        padding: 14px 46px;
+        font-size: 13px;
+    }
+    .relator_services_l p {
+        font-size: 17px;
+    }
+    .afterlogin_right {
+        padding: 15px;
+    }
+    .afterlogin_right h2 {
+        font-size: 19px;
+    }
+    .help-support-btn {
+        position: relative;
+        right: 0;
+        top: 0;
+        margin-top: 12px;
+    }
+    .top-header ul {
+        justify-content: center;
+        flex-direction: column;
+    }
+    .top-header ul li a {
+        margin: 5px 15px 0 15px;
+    }
+}
